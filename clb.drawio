@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T23:01:32.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="jl7xuCiUKw7XXrGDXbUT" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T23:10:02.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="cAODRMjj2WIecrILirpI" version="22.1.1" type="github">
   <diagram name="Page-1" id="0NY4W9H_qaBfPiEchEXz">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="VOn_2SGylqkf4S7pZH3h-58" value="Configurable Interrupts (x4)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VOn_2SGylqkf4S7pZH3h-59" value="Edge Detector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VOn_2SGylqkf4S7pZH3h-59" value="Hardware Timer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
